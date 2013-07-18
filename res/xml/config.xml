@@ -35,7 +35,7 @@
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <!-- <content src="index.html" /> -->
     
-    <content src="http://10.0.2.2/index.html" />
+    <content src="http://10.0.2.2:9000/index.html" />
 
     <preference name="loglevel" value="DEBUG" />
     <!--
